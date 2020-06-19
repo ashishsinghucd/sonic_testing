@@ -1,0 +1,6 @@
+.git
+.idea
+.DS_Store
+results
+data_info
+stats
